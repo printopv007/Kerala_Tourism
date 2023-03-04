@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { FormsComponent } from './forms/forms.component';
 import { ContactComponent } from './pages/contact/contact.component';
 import { DistrictComponent } from './pages/district/district.component';
 import { HomepageComponent } from './pages/homepage/homepage.component';
@@ -31,7 +32,12 @@ component:ContactComponent
 {
   path:'single',
   component:SingleComponent
+},
+{
+  path:'forms',
+  component:FormsComponent
 }
+
 
 
 

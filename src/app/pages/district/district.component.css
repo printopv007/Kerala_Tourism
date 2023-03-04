@@ -1,0 +1,6 @@
+.whole{
+    background-image: url(/assets/images/bg.jpg);
+    font-family:'Times New Roman', Times, serif;
+    background-attachment:local;
+    background-size:contain;
+}

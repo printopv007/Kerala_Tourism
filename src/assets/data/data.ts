@@ -6,7 +6,7 @@ export const database= [
         "id":0,
     "image":"assets/images/kasargod.jpg",
     "title":"Kasargod",
-    "des":"Kasaragod is a municipal town and administrative headquarters of Kasaragod district in the state of Kerala, India. Established in 1966, Kasaragod was the first municipal town in the district. It is the northernmost district of Kerala and is also known as Saptha Bhasha Sangama Bhoomi",
+    "des":"Kasaragod is a municipal town and administrative headquarters of Kasaragod district in the state of Kerala, India. Established in 1966, Kasaragod was the first municipal town in the district.",
     "link":"kasargod.component.html"
 
   },
@@ -15,7 +15,7 @@ export const database= [
     "id":1,
     "image":"assets/images/kannur.jpg",
     "title":"Kannur",
-    "des":"Kannur is a coastal city in the south Indian state of Kerala. It was once an ancient trading port. Enduring monuments such as 16th-century St. Angelo Fort, once occupied by European colonial forces, show the city’s significant role in the spice trade.",
+    "des":"Kannur is a coastal city in the south Indian state of Kerala. It was once an ancient trading port. Enduring monuments such as 16th-century St. Angelo Fort, once occupied by European colonial.",
     "link":"kannur.component.html"
   },
 
@@ -23,7 +23,7 @@ export const database= [
     "id":2,
     "image":"assets/images/wayanad.jpg",
     "title":"Wayanad",
-    "des":"Wayanad is a rural district in Kerala state, southwest India. In the east, the Wayanad Wildlife Sanctuary is a lush, forested region with areas of high altitude, home to animals including Asiatic elephants, tigers, leopards and egrets.",
+    "des":"Wayanad is a rural district in Kerala state, southwest India. In the east, the Wayanad Wildlife Sanctuary is a lush, forested region with areas of high altitude, home to animals including Asiatic.",
     "link":"wayanad.component.html"
   },
   {
@@ -37,7 +37,7 @@ export const database= [
     "id":4,
     "image":"assets/images/malappuram.jpg",
     "title":"Malappuram",
-    "des":"Malappuram is a city in the Indian state of Kerala, spread over an area of 58.20 km² including the surrounding suburban areas. The first municipality in the district formed in 1970, Malappuram serves as the administrative headquarters of Malappuram district. ",
+    "des":"Malappuram is a city in the Indian state of Kerala, spread over an area of 58.20 km² including the surrounding suburban areas. The first municipality in the district formed in 1970. ",
     "link":"malappuram.component.html"
   },
   {
@@ -51,21 +51,21 @@ export const database= [
         "id":6,
     "image":"assets/images/thrissur.jpg",
     "title":"Thrissur",
-    "des":"Thrissur is a city in the south Indian state of Kerala. It's known for sacred sites and colorful festivals. In the center is Vadakkumnathan Temple, dedicated to Lord Shiva and adorned with murals. ",
+    "des":"Thrissur is a city in the south Indian state of Kerala. It's known for sacred sites and colorful festivals. In the center is Vadakkumnathan Temple, dedicated to Lord Shiva. ",
     "link":"thrissur.component.html"
   },
   {
     "id":7,
     "image":"assets/images/ernakulam.jpg",
-    "title":"Ernakuklam",
-    "des":"Sprawling, residential Ernakulam is known for Marine Drive, a busy waterfront promenade where boats offer backwater cruises. The Kerala Folklore and Hill Palace museums explore local heritage through art and antiquities.",
+    "title":"Ernakulam",
+    "des":"Sprawling, residential Ernakulam is known for Marine Drive, a busy waterfront promenade where boats offer backwater cruises. The Kerala Folklore and Hill Palace museums.",
     "link":"ernakulam.component.html"
   },
   {
     "id":8,
     "image":"assets/images/idukki.jpg",
     "title":"Idukki",
-    "des":" Idukki district is a densely forested, mountainous region in the south Indian state of Kerala. In the north, Anamudi mountain towers over Eravikulam National Park, where the rare, blue Neelakurinji flower blooms every 12 years.",
+    "des":" Idukki district is a densely forested, mountainous region in the south Indian state of Kerala. In the north, Anamudi mountain towers over Eravikulam National Park.",
     "link":"idukki.component.html"
   },
   {
@@ -79,7 +79,7 @@ export const database= [
     "id":10,
    "image":"assets/images/alappuzha.jpg",
     "title":"Alappuzha",
-    "des":" Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala. It's best known for houseboat cruises along the rustic Kerala backwaters, a network of tranquil canals and lagoons.",
+    "des":" Alappuzha (or Alleppey) is a city on the Laccadive Sea in the southern Indian state of Kerala. It's best known for houseboat cruises along the rustic Kerala backwaters.",
     "link":"alappuzha.component.html"
   },
   {
@@ -100,6 +100,6 @@ export const database= [
     "id":13,
     "image":"assets/images/trivandrum.jpg",
     "title":"Trivandrum",
-    "des":"Thiruvananthapuram (or Trivandrum) is the capital of the southern Indian state of Kerala. It's distinguished by its British colonial architecture and many art galleries. It’s also home to Kuthira Malika (or Puthen Malika) Palace, adorned with carved horses and displaying collections related to the Travancore royal family, whose regional capital was here from the 18th–20th centuries",
+    "des":"Thiruvananthapuram (or Trivandrum) is the capital of the southern Indian state of Kerala. It's distinguished by its British colonial architecture and many art galleries.",
     "link":"trivandrum.component.html"
   }]

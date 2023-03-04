@@ -1,29 +1,14 @@
-<app-navbar></app-navbar>
-<!-- <div class="container text-center mt-5" >
-    <div class="row">
-      <div class="col col-lg-4 " *ngFor="let dis of database">
-        <div class="card" style="width: 18rem;">
-            <img src="{{dis.image}}" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">{{dis.title}}</h5>
-              <p class="card-text">{{dis.des}}</p>
-              <a (click)="gotoHere(dis.title)" class="btn btn-primary">Explore</a>
-            </div>
-          </div>
-      </div>
-    </div>
-  </div> -->
-  <div class="container">
+ <div class="whole"> <div class="container">   
     <div class="row">
       <div class="col col-lg-4" *ngFor="let dis of database">
         <div class="card" style="width: 18rem;">
           <img style="width:auto;height: 200px;"  class="card-img-top " src="{{dis.image}}" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">{{dis.title}}</h5>
-            <p class="card-text">{{dis.des}}</p>
-            <a (click)="gotoHere(dis.title)" class="btn btn-primary">Explore</a>
+            <div style="text-align: center;"><h5 class="card-title">{{dis.title}}</h5></div>
+            <!-- <p class="card-text">{{dis.des}}</p> -->
+           <div style="text-align: center;"><a (click)="gotoHere(dis.title)" class="btn btn-primary">Explore</a></div> 
           </div>
         </div>
       </div>
     </div>
-  </div>
+  </div></div>

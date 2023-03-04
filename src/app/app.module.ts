@@ -10,6 +10,8 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { NavbarComponent } from './utils/navbar/navbar.component';
 import { FooterComponent } from './utils/footer/footer.component';
 import { SingleComponent } from './pages/single/single.component';
+import { FormsModule } from '@angular/forms';
+import { FormsComponent } from './forms/forms.component';
 
 @NgModule({
   declarations: [
@@ -21,11 +23,13 @@ import { SingleComponent } from './pages/single/single.component';
     ContactComponent,
     NavbarComponent,
     FooterComponent,
-    SingleComponent
+    SingleComponent,
+    FormsComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
